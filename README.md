@@ -21,6 +21,15 @@
 # Citation
 If this repo is helpful with your research or projects, please kindly star our repo and cite our paper as follows:  
 ```
-Waiting for publication...
+@ARTICLE{10506099,
+  author={Fan, Cunhang and Ding, Mingming and Tao, Jianhua and Fu, Ruibo and Yi, Jiangyan and Wen, Zhengqi and Lv, Zhao},
+  journal={IEEE/ACM Transactions on Audio, Speech, and Language Processing}, 
+  title={Dual-Branch Knowledge Distillation for Noise-Robust Synthetic Speech Detection}, 
+  year={2024},
+  volume={32},
+  number={},
+  pages={2453-2466},
+  keywords={Noise measurement;Speech enhancement;Training;Noise;Speech synthesis;Data models;Noise robustness;Synthetic speech detection;noise-robust;knowledge distillation;interactive fusion},
+  doi={10.1109/TASLP.2024.3389643}}
 ```
 
